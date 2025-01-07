@@ -1,7 +1,7 @@
 <nav>
   <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/HowItWorks">How It Works</a></li>
+    <li><a href="/slt-machine">Home</a></li>
+    <li><a href="/slt-machine/HowItWorks">How It Works</a></li>
   </ul>
 </nav>
 
