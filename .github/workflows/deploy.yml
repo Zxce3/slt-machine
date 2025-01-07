@@ -18,11 +18,10 @@ jobs:
       #   with:
       #     version: 8
 
-      - name: Install Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: 'bun'
+      # - name: Install Node.js
+      #   uses: actions/setup-node@v4
+      #   with:
+      #     node-version: 20
 
       - name: Install Bun
         run: curl -fsSL https://bun.sh/install | bash
